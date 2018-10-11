@@ -1,0 +1,33 @@
+*|*:root {
+    background-color: Navajowhite;
+    height: 100%;
+}
+header {
+    text-align: center;
+}
+header h4 {
+    font-weight: normal;
+}
+img {
+    width: 50%;
+    margin: 10px 0px 0px 0px
+    
+}
+p {
+    margin-top: 0;
+}
+.caption {
+    margin-top: 0;
+    width: 50%;
+}
+#headimg {
+    margin-bottom: 15px;
+}
+#diagramcap {
+    background-color: White;
+    padding-top: 0;
+}
+#diagram {
+    padding-bottom: 0;
+    border-width: 0;
+}
